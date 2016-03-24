@@ -29,6 +29,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
     self.view.backgroundColor = [UIColor redColor];
+    //添加修改测试
     //最上方有一个导航条  这个导航条 默认大小 320*44  y坐标从20开始
     
     //状态栏 是320 * 20  状态栏在导航条上方
