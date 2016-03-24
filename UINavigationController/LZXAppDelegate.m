@@ -9,6 +9,8 @@
 #import "LZXAppDelegate.h"
 #import "FirstViewController.h"
 
+
+///、。。、、、、、添加一句注释
 @implementation LZXAppDelegate
 - (void)dealloc{
     [_window release];
